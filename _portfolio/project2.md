@@ -6,6 +6,8 @@ alt: Publicacion en redes
 
 caption:
   title: Redes sociales
+  subtitle: Button 3
+  thumbnail: assets/img/portfolio/seconddBtn.jpg
   ---
   <sup> CITAR</sup>
     

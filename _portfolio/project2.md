@@ -3,9 +3,9 @@ title: Redes sociales
 subtitle: Citar y referenciar 
 
 caption: X, Facebook, Instagram, Tiktok, YouTube
-  title: Redes sociales
-  subtitle: X, Facebook, Instagram, Tiktok, YouTube
-  thumbnail: assets/img/portfolio/secondBtn.jpg
+title: Redes sociales
+subtitle: X, Facebook, Instagram, Tiktok, YouTube
+thumbnail: assets/img/portfolio/secondBtn.jpg
 ---
   **CITAR**     
   **X:** Sheinbaum (2023) mencionó el evento político en su cuenta de Twitter el 10 de abril.  

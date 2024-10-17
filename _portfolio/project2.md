@@ -9,7 +9,7 @@ caption:
   subtitle: Citar y referenciar
   thumbnail: assets/img/portfolio/secondBtn.jpg
 ---
-  ### CITAR  
+  ### CITAR ###    
     
   **X:** Sheinbaum (2023) mencionó el evento político en su cuenta de Twitter el 10 de abril.  
   **Facebook:**  En una publicación reciente, Zuckerberg (2024) felicitó a los miembros de Green Day por sus aniversarios musicales  
@@ -18,7 +18,7 @@ caption:
   **YouTube:** Geron (2022) dio a conocer en un video de YouTube, que "la tecnología es uno de los pilares más importantes en la evolución de la humanidad". (13m27s).      
 
   
-  ### REFERENCIAR   
+  ### REFERENCIAR ###  
 
   **X:** Sheinbaum, C.(@Claudiashein). (2023, Abril 10). Publicación sobre evento político [Tuit]. Twitter de https://x.com/Claudiashein/status/1842034412499730582  
   **Facebook:** Zuckerberg, M. (@zuck). (2024, Septiembre 21). Felicitaciones a Billie Joe, Tré y Mike por el 20.º aniversario de American Idiot y el 30.º aniversario de Dookie [Publicación de Facebook]. Recuperado de h  ttps://www.facebook.com/zuck/posts/pfbid0urRG5cbwBRqMJy gug8t1yrvK56mZLMKziKoBbeNThA5e1UUPMjuj7Y2cyJeFUZa4l? locale=es_LA  

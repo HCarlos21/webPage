@@ -1,12 +1,10 @@
 ---
 title: Redes sociales
-subtitle: X, Facebook, Instagram, Tiktok, YouTube
-image: assets/img/portfolio/secondBtn.jpg
-alt: Articulos web
+subtitle: Citar y referenciar 
 
-caption:
+caption: X, Facebook, Instagram, Tiktok, YouTube
   title: Redes sociales
-  subtitle: Citar y referenciar
+  subtitle: X, Facebook, Instagram, Tiktok, YouTube
   thumbnail: assets/img/portfolio/secondBtn.jpg
 ---
   **CITAR**     
@@ -25,6 +23,4 @@ caption:
   **YouTube:** Canal REDMÁS. (2017, septiembre 19). Antanas Mockus en Confesiones (Vídeo). Youtube. https://youtu.be/de_4nTCHtJs  
 
 {:.list-inline}
-- Date: October 2024
-- Client: Finish
-- Category: Identity
+

@@ -1,13 +1,13 @@
 ---
 title: Documentos graficos
 subtitle: Button 6
-image: assets/img/portfolio/sixthPicture.jpg
+image: assets/img/portfolio/sixthBtn.jpg
 alt: Documentos graficos
 
 caption:
   title: Documentos graficos
   subtitle: Button 6
-  thumbnail: assets/img/portfolio/sixthPicture.jpg
+  thumbnail: assets/img/portfolio/sixthBtn.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

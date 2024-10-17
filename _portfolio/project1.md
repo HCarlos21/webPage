@@ -1,6 +1,6 @@
 ---
 title: Libros 
-image: assets/img/portfolio/firstPicture.jpg
+image: assets/img/portfolio/firstBtn.jpg
 alt: Libros
 
 caption:

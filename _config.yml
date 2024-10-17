@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "HCarlos21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://HCarlos21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/webPage" # the subpath of your site, e.g. /blog
 
 title      : APA citation

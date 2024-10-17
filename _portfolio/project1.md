@@ -1,6 +1,8 @@
 ---
 title: Libros
 subtitle: Citar y referenciar 
+image: assets/img/portfolio/firstdBtn.jpg
+alt: Libros
 
 caption:
   title: Libro

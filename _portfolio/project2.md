@@ -1,6 +1,8 @@
 ---
 title: Redes sociales
 subtitle: Citar y referenciar 
+image: assets/img/portfolio/seconddBtn.jpg
+alt: Redes sociales
 
 caption: 
   title: Redes sociales

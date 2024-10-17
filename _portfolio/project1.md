@@ -2,10 +2,10 @@
 title: Libros
 subtitle: Citar y referenciar 
 
-caption: Libros con autor, con editor, electronicos, electronicos con DOI, capitulo de un libro
-title: Libro
-subtitle: Libros con autor, con editor, electronicos, electronicos con DOI, capitulo de un libro
-thumbnail: assets/img/portfolio/firstBtn.jpg
+caption:
+  title: Libro
+  subtitle: Libros con autor, con editor, electronicos, electronicos con DOI, capitulo de un libro
+  thumbnail: assets/img/portfolio/firstBtn.jpg
 ---
 **CITAR**     
   **Libro con autor:** Según González (2019), la teoría del aprendizaje ha evolucionado considerablemente en los últimos años.  

@@ -41,7 +41,7 @@ es: &DEFAULT_ES
     title: "FORMATO APA"
    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar"
 
   #timeline:
    #title: "Equipo 5"

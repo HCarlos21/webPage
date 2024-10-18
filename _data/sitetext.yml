@@ -21,7 +21,10 @@ es: &DEFAULT_ES
 
   services:
     #title: "Servicios"
-   # text: "FORMATO APA"
+    text: "Según la American la American Psychological Association, “El Formato APA son un conjunto de normas para su uso en la redacción, presentación y publicación de trabajos escritos, empleando “Citas y Referencias” para mejorar los argumentos y confiabilidad de la investigación sea cual sea el grado, doctorado o incluso presentaciones escolares, empresariales y comerciales.  
+            Al igual, nos ayuda a que nuestro trabajo no incurra en copias o plagio, con la mención y acreditación de las ideas o métodos plasmados en las citas y referencias.  
+            Surgió en 1929 y es aplicado principalmente en ciencias sociales, educación, psicología y áreas relacionadas, y fue desarrollado por la American Psychological Association para estandarizar la escritura académica.  
+            Su objetivo es facilitar la lectura, comprensión y comparación de trabajos académicos al establecer un formato uniforme para citar fuentes y estructurar el contenido. ”"
     #section: servicios
     # list:
     #   - title: "Comercio Electrónico"
@@ -79,11 +82,7 @@ es: &DEFAULT_ES
   about:
     title: "Equipo 5"
     text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. Que construimos una página WEB con el proposito de crear un antecedente en sobre las distintas maneras de citars segun el formato APA, este proyecto forma parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
-          Juan Carlos Ramirez Martinez  
-          Alison Daiana Cortes Cruz  
-          Hilda Yolanda Solis Mosqueda  
-          Xaana Mayte Sandoval Estrella  
-          Zeus Emir Samora Alvarez  "
+           Juan Carlos Ramirez Martinez, Alison Daiana Cortes Cruz, Hilda Yolanda Solis Mosqueda, Xaana Mayte Sandoval Estrella, Zeus Emir Samora Alvarez  "
   #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
   #   section: nosotros
 

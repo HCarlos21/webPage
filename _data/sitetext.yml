@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#FORMATO APA"
 
   services:
-    title: "Services"
+    title: "pito"
     text: "FORMATO APA"
     section: services
     list:

@@ -13,16 +13,16 @@
 # Spanish
 # -------
 es: &DEFAULT_ES
-  # header:
-  #   title: ¡Bienvenido a nuestro Estudio!
-  #   text: Es un placer conocerle
-  #   button: Ver más
-  #   buttonlink: "#servicios"
+  header:
+    title: ¿CÓMO CITAR EN FORMATO APA?
+    # text: Es un placer conocerle
+    # button: Ver más
+    # buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "FORMATO APA"
-    section: servicios
+    #title: "Servicios"
+   # text: "FORMATO APA"
+    #section: servicios
     # list:
     #   - title: "Comercio Electrónico"
     #     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -35,14 +35,19 @@ es: &DEFAULT_ES
     #     icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "FORMATO APA"
+   # text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  # timeline:
-  #   title: "Cronología"
-  #   text: "Lorem ipsum timeline"
+  timeline:
+   title: "Equipo 5"
+   text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. El proposito de este proyecto es crear un antecedente en la web sobre distintas maneras de citars segun el formato APA, este proyecto es parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
+          Juan Carlos Ramirez Martinez  
+          Alison Daiana Cortes Cruz  
+          Hilda Yolanda Solis Mosqueda  
+          Xaana Mayte Sandoval Estrella  
+          Zeus Emir Samora Alvarez  "
   #   section: cronologia
   #   # left is the default
   #   #start_align: "left"

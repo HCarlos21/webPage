@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    text: FORMATO APA
     button: Tell Me More
     buttonlink: "#FORMATO APA"
 
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Equipo 5"
     text: "Somos un equipo de la carrera de Ingenieria en Sistemas Computacionales del TecNM Colima. Este proyecto forma parte de la asignatura de Metodología de la Investigación, se trata de una página web que nos permite explorar las distintas maneras de citar y referenciar en formato APA  
         juan carlos Ramirez Martinez  
         Alison Daiana Cortes Cruz  

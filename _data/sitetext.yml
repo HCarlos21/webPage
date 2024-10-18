@@ -40,14 +40,14 @@ es: &DEFAULT_ES
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  timeline:
-   title: "Equipo 5"
-   text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. El proposito de este proyecto es crear un antecedente en la web sobre distintas maneras de citars segun el formato APA, este proyecto es parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
-          Juan Carlos Ramirez Martinez  
-          Alison Daiana Cortes Cruz  
-          Hilda Yolanda Solis Mosqueda  
-          Xaana Mayte Sandoval Estrella  
-          Zeus Emir Samora Alvarez  "
+  #timeline:
+   #title: "Equipo 5"
+  # text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. El proposito de este proyecto es crear un antecedente en la web sobre distintas maneras de citars segun el formato APA, este proyecto es parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
+   #       Juan Carlos Ramirez Martinez  
+    #      Alison Daiana Cortes Cruz  
+     #     Hilda Yolanda Solis Mosqueda  
+      #    Xaana Mayte Sandoval Estrella  
+       #   Zeus Emir Samora Alvarez  "
   #   section: cronologia
   #   # left is the default
   #   #start_align: "left"
@@ -76,9 +76,14 @@ es: &DEFAULT_ES
   #       align: right
   #   end: "¡Se parte <br> de Nuestra <br> Historia!"
 
-  # about:
-  #   title: "Sobre nosotros"
-  #   text: "nuestra historia"
+  about:
+    title: "Equipo 5"
+    text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. Que construimos una página WEB con el proposito de crear un antecedente en sobre las distintas maneras de citars segun el formato APA, este proyecto forma parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
+          Juan Carlos Ramirez Martinez  
+          Alison Daiana Cortes Cruz  
+          Hilda Yolanda Solis Mosqueda  
+          Xaana Mayte Sandoval Estrella  
+          Zeus Emir Samora Alvarez  "
   #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
   #   section: nosotros
 

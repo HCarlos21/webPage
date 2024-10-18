@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#FORMATO APA"
 
   services:
     title: "Services"
@@ -183,7 +183,7 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "FORMATO APA"
     section: servicios
     list:
       - title: "Comercio Electrónico"

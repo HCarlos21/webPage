@@ -81,8 +81,8 @@ es: &DEFAULT_ES
 
   about:
     title: "Equipo 5"
-    text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. Que construimos una página WEB con el proposito de crear un antecedente en sobre las distintas maneras de citars segun el formato APA, este proyecto forma parte de la materia Fundamentos de Investigación, los integrantes del equipo son:  
-           Juan Carlos Ramirez Martinez, Alison Daiana Cortes Cruz, Hilda Yolanda Solis Mosqueda, Xaana Mayte Sandoval Estrella, Zeus Emir Samora Alvarez  "
+    text: "Somos un equipo de estudiantes del Tecnológico Nacional de México, Colima. Que construimos una página WEB con el proposito de crear una recopilación de las distintas maneras de citar y referenciar fuentes segun el formato APA, este proyecto forma parte de la materia Fundamentos de Investigación, los integrantes del equipo son 
+           Juan Carlos Ramirez Martinez, Alison Daiana Cortes Cruz, Hilda Yolanda Solis Mosqueda, Xaana Mayte Sandoval Estrella y Zeus Emir Samora Alvarez  "
   #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
   #   section: nosotros
 

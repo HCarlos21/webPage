@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "FORMATO APA"
     section: services
     list:
       - title: "E-Commerce"
@@ -38,10 +38,15 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Somos un equipo de la carrera de Ingenieria en Sistemas Computacionales del TecNM Colima. Este proyecto forma parte de la asignatura de Metodología de la Investigación, se trata de una página web que nos permite explorar las distintas maneras de citar y referenciar en formato APA  
-        juan carlos Ramirez Martinez"
-    text: "Lorem ipsum timeline"
+    title: "Timeline"
+    text: "Somos un equipo de la carrera de Ingenieria en Sistemas Computacionales del TecNM Colima. Este proyecto forma parte de la asignatura de Metodología de la Investigación, se trata de una página web que nos permite explorar las distintas maneras de citar y referenciar en formato APA  
+        juan carlos Ramirez Martinez  
+        Alison Daiana Cortes Cruz  
+        Hilda Yolana Solis Mosqueda  
+        Xaana Mayte Sandoval Estrella  
+        Zeus Emir Zamora Alvarez"
     section: timeline
+    
     # left is the default
     #start_align: "left"
     events:
@@ -70,8 +75,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "Equipo #5"
-    text: "our story"
+    title: "About Us"
+    text: "Equipo 5"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 

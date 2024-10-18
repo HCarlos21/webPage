@@ -7,36 +7,6 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default)
-# -----------------
-en: &DEFAULT_EN
-  nav:
-    - title: "FORMATO APA"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "EQUIPO 6"
-      section: about
-    - title: "Somos un equipo de la carrera de Ingenieria en Sistemas Computacionales del TecNM Colima. Este proyecto forma parte de la asignatura de Metodología de la Investigación, se trata de una página web que nos permite explorar las distintas maneras de citar y referenciar en formato APA  
-        juan carlos Ramirez Martinez  Alison Daiana Cortes Cruz  
-        Hilda Yolana Solis Mosqueda  
-        Xaana Mayte Sandoval Estrella  
-        Zeus Emir Zamora Alvarez"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
 
 # Spanish
 # -------
@@ -59,4 +29,6 @@ es: &DEFAULT_ES
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
+  <<: *DEFAULT_ES
+es-MX
   <<: *DEFAULT_ES
